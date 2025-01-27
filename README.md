@@ -2,6 +2,8 @@
 
 A simple API to search for flights using FlightRadar24 data.
 
+Built for dev.to's Agent.ai challenge for my [Travel planner agent](https://dev.to/sutter_cane/tyche-crafting-adventures-one-surprise-at-a-time-49p9)
+
 ## Setup
 
 1. Install dependencies:
